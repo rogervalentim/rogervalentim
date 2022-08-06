@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 <h3 align="left">I’m currently learning</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="60" />
 
-![Snake animation](https://github.com/seu-usuário-aqui/rogervalentim/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rogervalentim/rogervalentim/blob/output/github-contribution-grid-snake.svg)
