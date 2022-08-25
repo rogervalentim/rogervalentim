@@ -13,7 +13,7 @@
 <div>
 <a href = "valentim.roger33@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rogervalentim33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%228B22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
+<a href="https://wa.me/19994088614" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%228B22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
