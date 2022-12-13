@@ -33,8 +33,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="60" />
 
 </br>
-<h3 align="center">Visits</h3>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/rogervalentim/count.svg"/></p>
 
   ![Snake animation](https://github.com/rogervalentim/rogervalentim/blob/output/github-contribution-grid-snake.svg) 
  
