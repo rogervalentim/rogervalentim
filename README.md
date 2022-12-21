@@ -4,8 +4,8 @@
 
 <div display="flex">
 <a href="https://github.com/rogervalentim">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogervalentim&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 
 </div>
 
