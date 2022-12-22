@@ -5,7 +5,7 @@
 <div display="flex">
 <a href="https://github.com/rogervalentim">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&show_icons=true&theme=tokyonight"/> 
- <img height="180em" src"https://github-readme-stats.vercel.app/api/top-langs?username=rogervalentim&layout=compact"/>
+ <img height="180em" src"https://github-readme-stats.vercel.app/api/top-langs/?username=rogervalentim&langs_count=8"/>
 
 </div>
 
