@@ -4,8 +4,8 @@
 
 <div display="flex">
 <a href="https://github.com/rogervalentim">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&show_icons=true&theme=tokyonight"/> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&show_icons=true&theme=tokyonight"/>
-1. <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&show_icons=true&theme=tokyonight"/>
 
 </div>
 
