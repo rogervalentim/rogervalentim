@@ -4,8 +4,8 @@
 
 <div display="flex">
 <a href="https://github.com/rogervalentim">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&show_icons=true&theme=onedark"/> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogervalentim&layout=compact&theme=onedark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&show_icons=true&theme=highcontrast"/> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogervalentim&layout=compact&theme=highcontrast"/>
 </div>
  
 <h3 align="center" color="#6295D9" >Contact with me :</h3>
