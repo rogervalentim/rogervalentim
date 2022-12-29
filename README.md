@@ -4,11 +4,10 @@
 
 <div display="flex">
 <a href="https://github.com/rogervalentim">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&show_icons=true&theme=tokyonight"/> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogervalentim&layout=compact&theme=tokyonight"/>
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervalentim&show_icons=true&theme=onedark"/> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogervalentim&layout=compact&theme=onedark"/>
 </div>
-
+ 
 <h3 align="center" color="#6295D9" >Contact with me :</h3>
 <div align="center">
 <a href = "valentim.roger33@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
