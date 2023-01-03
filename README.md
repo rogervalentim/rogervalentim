@@ -1,5 +1,4 @@
-<h1 align="center">Full Stack Developer<h1> 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer+React+Node)](https://git.io/typing-svg)
 
 
 <div align="flex">
