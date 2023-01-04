@@ -13,7 +13,6 @@
 <a href="https://wa.me/19994088614" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%228B22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
  
- <h3 align="center">My website: <span>https://portfolio-27cuqpcpb-rogervalentim.vercel.app/</span></h3>
 
 
 <h1 align="center">Languages and Tools:</h1>
