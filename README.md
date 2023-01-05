@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Web+Full+Stack)](https://git.io/typing-svg)
 
 
 <div align="flex">
