@@ -9,3 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rogervalentim&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rogervalentim&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<im src=".github/hacker-amico.png" width="300" />
