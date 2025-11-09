@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer)](https://git.io/typing-svg)
-## 🌐 Socials:
-(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rogervalentim33/) 
+
 
 # 🎓 cursando engenharia de software
 
