@@ -58,13 +58,13 @@ Olá! Eu sou o **Roger Valentim**, estudante de **Engenharia de Software** e **D
 
 ### 🚀 Projetos em Destaque
 
-> 💡 *Veja todos os projetos com demonstrações ao vivo no meu [portfólio](https://roger-portfolio-gamma.vercel.app/).*
+> 💡 _Veja todos os projetos com demonstrações ao vivo no meu [portfólio](https://roger-portfolio-gamma.vercel.app/)._
 
-| Projeto | Descrição | Tecnologias | Links |
-| :--- | :--- | :--- | :--- |
-| **Portfólio Pessoal** | Aplicação web responsiva desenvolvida para apresentar minha trajetória, habilidades e projetos. | `React` `Next.js` `Tailwind CSS` | [Deploy](https://roger-portfolio-gamma.vercel.app/) |
-| **Projeto 02** *(Edite aqui)* | Breve descrição do seu principal projeto frontend ou full stack. | `TypeScript` `React` `Node.js` | [Repositório](https://github.com/rogervalentim) |
-| **Projeto 03** *(Edite aqui)* | Breve descrição de outro projeto relevante do seu portfólio. | `Next.js` `MongoDB` | [Repositório](https://github.com/rogervalentim) |
+| Projeto                       | Descrição                                                                                                                            | Tecnologias                                                        | Links                                                           |
+| :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------- |
+| **Portfólio Pessoal**         | Aplicação web responsiva desenvolvida para apresentar minha trajetória, habilidades e projetos.                                      | `React` `Next.js` `Tailwind CSS`                                   | [Deploy](https://roger-portfolio-gamma.vercel.app/)             |
+| **Projeto 02** _FlowForge UI_ | Editor visual de pipelines de agentes de IA com canvas interativo, streaming em tempo real e Design System documentado no Storybook. | `TypeScript` `React` `Node.js` `Docker` `Storybook` `Tailwind CSS` | [Repositório](https://github.com/rogervalentim/flow-forge)      |
+| **Projeto 03** _(Edite aqui)_ | Assistente virtual de suporte técnico com controle de acesso por perfil e integração com API de IA.                                  | `Next.js` `TypeScript` `OpenAI API`                                | [Repositório](https://github.com/rogervalentim/nexus-assistant) |
 
 ---
 
