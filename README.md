@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/GitHub-rogervalentim-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- Atualize o link abaixo com o seu LinkedIn -->
-  <a href="https://www.linkedin.com/in/rogervalentim/" target="_blank">
+  <a href="https://www.linkedin.com/in/rogervalentim33/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
